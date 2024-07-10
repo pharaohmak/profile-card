@@ -14,10 +14,6 @@ This project showcases a responsive profile card component designed for displayi
 - Clean and modern layout
 - Customizable profile information
 
-## Preview
-
-![Profile Card Component Preview](./images/profile-card-preview.png)
-
 ## Getting Started
 
 To view the profile card:
